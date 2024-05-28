@@ -4,7 +4,7 @@ const crypto = require("crypto");
 const csv = require("csv-parser");
 const AdmZip = require("adm-zip");
 
-const RESULT_COLLECTION_NAME = "My New Snippet Collection";
+const RESULT_COLLECTION_NAME = "Alfred_Snippet_Collection";
 
 function buildJsonFiles() {
   const sourceFile = "snippets.csv";
