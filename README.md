@@ -44,3 +44,5 @@ change the file name as you like - this will be your snippet collection name.
 Don’t forget to uncheck: _Strip snippets of "auto-expand" flag_. Keep your snippets auto-expanding like a pro! 🌟
 
 Voila! You’re now a snippet superhero, armed and ready to boost your productivity to legendary levels! 🦸‍♀️🦸‍♂️🚀
+
+Hello Yana
