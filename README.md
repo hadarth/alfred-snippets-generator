@@ -46,3 +46,11 @@ Don’t forget to uncheck: _Strip snippets of "auto-expand" flag_. Keep your sni
 Voila! You’re now a snippet superhero, armed and ready to boost your productivity to legendary levels! 🦸‍♀️🦸‍♂️🚀
 
 Hello Yana
+
+
+how are you?
+
+im fine
+
+im too
+
